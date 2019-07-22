@@ -1,4 +1,4 @@
-# app-rest
+# api-rest
 Modelo com configuração base e estrutura de pastas para api-rest com NodeJs.
 
 # Utiliza também: 
