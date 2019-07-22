@@ -2,9 +2,10 @@
 Modelo com configuração base e estrutura de pastas para api-rest com NodeJs.
 
 # Utiliza também: 
- > Inclui os arquivos de configurações .eslintrc.js e .prettierrc 
 * Nodemon
 * Sucrase 
 * Eslint 
 * Prettier
+
+>  Inclui os arquivos de configurações  e .prettierrc 
 
