@@ -7,5 +7,5 @@ Modelo com configuração base e estrutura de pastas para api-rest com NodeJs.
 * Eslint 
 * Prettier
 
->  Inclui os arquivos de configurações .prettierrc .eslintrc.js
+>  Inclui os arquivos de configurações .prettierrc e .eslintrc.js
 
